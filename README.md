@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Foodies!
+Single & Multiple Restaurant Food Ordering & Membership System.
+## Live Site : https://foodies-f9231.web.app/
+
+# Basic Info on Foodies!
+### We Offer Delicious Foods
+### In Locals By Online Delivery!
+### Single & Multiple Restaurant Food Ordering & Membership System.
+### We deliver organic vegetables fresh from our fields to your doorstep.
+
 ## Available Scripts
 
 In the project directory, you can run:
