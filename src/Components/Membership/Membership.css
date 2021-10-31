@@ -1,0 +1,41 @@
+.membership-container{
+    margin-top: 40px;
+}
+.membership-card{
+    padding:20px;
+}
+.membership-card h2{
+    font-size: 36px;
+    font-weight: 700;
+    color:#fff;
+}
+.membership-card h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.basic-plan{
+    background: #2980b9;
+}
+.basic-plan button{
+    border:none;
+    padding:10px 20px;
+    cursor: pointer;
+    
+}
+.basic-plan {
+    text-align: center;
+}
+.fa-book-open{
+    font-size: 80px;
+    margin-top: 20px;
+   
+}
+.basic-plan2 .fa-book-open{
+    color:#c0392b;
+}
+.gold-plan .fa-book-open{
+    color:#f39c12;
+}
+.standard-plan .fa-book-open{
+    color:#d35400;
+}

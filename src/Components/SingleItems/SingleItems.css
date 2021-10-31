@@ -1,0 +1,17 @@
+.course-info{
+    margin-top: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.author-price{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.author-price img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+
+}

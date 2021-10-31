@@ -1,0 +1,12 @@
+.navbar-brand{
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.nav-link a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.nav-link a:hover{
+    color:#d35400;
+}

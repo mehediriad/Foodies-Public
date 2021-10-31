@@ -1,0 +1,9 @@
+.featured-services-container{
+    margin-top:40px;
+    text-align: center;
+}
+.services-container p{
+    width:60%;
+    margin: auto;
+    margin-bottom: 30px;
+}
